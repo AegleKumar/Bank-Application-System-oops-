@@ -31,7 +31,7 @@ This is a simple **Bank Management System** built using **Object-Oriented Progra
 - Encapsulation
 - Control Flow (Loops, Conditionals)
 - Basic Input/Output Handling
-- 
+  
 **How to Run**
 1. Make sure Python is installed (`python3` or `python`).
 2. Clone the repository or copy the code into a `.py` file.
